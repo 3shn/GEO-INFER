@@ -21,3 +21,7 @@ GEO-INFER-SPACE/src/geo_infer_space/osc_geo/utils/reports/osc-geo-h3loader-cli/
 GEO-INFER-SPACE/build
 GEO-INFER-SPACE/repos
 GEO-INFER-SPACE/.DS_Store
+
+# Local development configuration
+.cursorrules
+mise.toml
